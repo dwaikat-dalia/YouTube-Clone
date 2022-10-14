@@ -1,0 +1,956 @@
+body{
+    height: 2050px;
+    font-family: 'Roboto', sans-serif;
+
+}
+/*start navbar part*/
+.nav-ver .nav-ver-part2 {
+    height: 100vh;
+    position: fixed;
+    right: -5px;
+}
+.fforSmall{
+    display: none!important;
+}
+.navbar {
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+    position: sticky;
+    top: 0px;
+}
+.nav-ver .nav-ver-part1 {
+    
+    height: 2050px;
+}
+/*end navbar part*/
+
+/*start cover section*/
+.cover-profile{
+    height: 33vh;
+    width: 1269px;
+    background-color: rgba(128, 128, 128, 0.143);
+   
+   
+}
+.cover-profile img{
+    width:100%;
+}
+.btn-channe{
+
+    background-color: #c00;
+    width: 83.74px;
+    height: 42px;
+    border-radius: 5%;
+    color:white;
+    font-weight: 400;
+    font-size: 19px;
+    margin-top: -82px;
+   margin-left: 65px;
+
+}
+.btn-channe:hover{
+    color:white;
+    background-color: #c00;
+    border:transparent 1px solid;
+}
+.subs,.image-profiile{
+    display: inline-block;
+}
+.image-profiile{
+   
+   
+    width:72%;
+    text-align: right;
+    margin-left: 100px;
+    margin-top: 13px;
+ 
+}
+
+.image-profiile img{
+ 
+    width:90px;
+    margin-top: -35px;
+  
+}
+
+.image-profiile h1{
+    font-size: 26px;
+    padding-right:30px;
+
+    
+
+}
+.image-profiile h1 i{
+    font-size: 14px;
+    padding-right: 7px;
+
+}
+.image-profiile p {
+    padding-right: 30px;
+   
+}
+
+.image-profiile h2 ,.image-profiile p{
+    font-size: 15px;
+    color:rgba(0, 0, 0, 0.677);
+    margin-top: 0;
+    padding-top: 0;
+    
+}
+
+
+.image-profiile .cont3{
+    
+    margin: 0px;
+    padding-top: 25px;
+   
+    
+}
+.cont3b.info-cont{
+    padding-bottom: -25px;
+   
+}
+/*end cover section*/
+/*start top nav vedios section*/
+.nav-tabs{
+  margin: 0;
+  padding: 0;
+  width:85%;
+  text-align: right;
+  margin-left:100px;
+ 
+  padding-bottom: 10px;
+  border-bottom-color: transparent;
+ 
+}
+.nav-tabs .nav-link {
+    border: 0px solid transparent;
+    border-radius: 0%;
+    background-color: rgba(128, 128, 128, 0);
+    font-size: 20px;
+    margin-left: 40px;
+    
+    text-align: right;
+}
+.nav-tabs .nav-link.active {
+    border: 0px solid transparent;
+    border-bottom: black 2px solid;
+    background-color: rgba(128, 128, 128, 0);
+    color: black;
+}
+
+.come1 {
+    text-align: right;
+    width: 70%;
+    padding-top: 10px;
+    border-width: 0px!important;
+    border-bottom-width: 1px !important;
+    border-bottom-color: rgba(128, 128, 128, 0.254);
+    background-color: rgba(128, 128, 128, 0);
+    padding-bottom: 5px;
+    
+}
+.search-div .nav-link{
+
+        border: 0px solid transparent;
+        border-radius: 0%;
+        background-color: rgba(128, 128, 128, 0);
+        font-size: 20px;
+        margin-left: 2px;
+    
+}
+
+/*end top nav vedios section*/
+/*start home page*/
+.backgroung-vedios{
+    width: 96%;
+    background-color: rgba(128, 128, 128, 0.08);
+    height:1660px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.backgroung-vedios .container{
+    width: 100%;
+}
+.data-vedio{
+ 
+    text-align: right;
+    padding-top: 10px;
+}
+.backgroung-vedios .data-vedio h2{
+font-size: 16px;
+word-spacing: -1px;
+font-weight: 400;
+color:black;
+
+}
+.backgroung-vedios .data-vedio h3,.backgroung-vedios .data-vedio h3 span{
+    font-size: 13px;
+    word-spacing: -1px;
+    font-weight: 400;
+    color:rgba(10, 1, 1, 0.471);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    
+    }
+.backgroung-vedios .data-vedio p{
+    
+    width:70%;
+    margin-left: auto;
+
+
+}
+.backgroung-vedios .data-vedio a{
+    text-decoration: none;
+   
+}
+
+.backgroung-vedios .data-vedio .more_info{
+    text-decoration: none;
+    color: black;
+    line-height: 50px;
+}
+.backgroung-vedios iframe{
+    width:463px; 
+    height:268px;
+}
+
+/*end home page*/
+/*startb salit part*/
+
+.salit .hed{
+
+text-align: right;
+padding-right: 60px;
+}
+.salit .hed h2{
+
+    font-size: 18px;
+    padding-left: 30px;
+}
+
+.salit .hed a{
+
+text-decoration: none;
+font-size: 17px;
+color:rgba(0, 0, 0, 0.664);
+}
+.salit .hed a i{
+    text-decoration: none;
+    padding-top: 10px;
+    font-size: 25px;
+    color:rgba(0, 0, 0, 0.649);
+    padding-left: 10px;
+    }
+
+   
+       
+   
+  
+    .img-salit-vedio {
+        width: 230px;
+        height: 124.8px;
+
+        
+    }
+    .img-salit-vedio img {
+        width: 100%;
+        height: 100%;
+    }
+
+  
+    .data-salit-vedio h3{
+        padding-top: 10px;
+        font-size: 15px;
+        width: 227px;
+        text-align: right;
+    }
+    .data-salit-vedio h4{
+        font-size: 15px;
+       
+        width: 228px;
+        text-align: right;
+        color:rgba(0, 0, 0, 0.679);
+    }
+    .data-salit-vedio p{
+        font-size: 14px;
+       
+        
+        text-align: right;
+        color:rgba(0, 0, 0, 0.679);
+    }
+    .data-salit-vedio .number{
+        margin-left: 6px;
+        width: 200px;
+    }
+    .vedios-salit{
+        
+        overflow: hidden;
+        padding-top: 15px;
+        padding-right: 40px;
+       
+    }
+    .salit-elements{
+        float:right;
+        width: 20%;
+    }
+/*end salit part*/
+
+/*aj+ channels start part*/
+
+.channels-salit .salit-elements .img-salit-vedio {
+
+width: 115px;
+height: 115px;
+
+}
+ .salit1 .hed{
+
+    text-align: right;
+    padding-right: 60px;
+    }
+.salit1 .hed h2{
+
+    font-size: 18px;
+    padding-left: 30px;
+  
+    padding-bottom: 14px;
+    padding-top: 10px;
+}
+
+ .salit1 .channels-salit .data-salit-vedio{
+text-align: left;
+
+}
+.channels-salit .data-salit-vedio h3 {
+    
+    
+    width: 115px;
+    text-align: center;
+}
+.channels-salit .data-salit-vedio .number {
+    margin-left: 0px;
+    width: 69px;
+   
+    text-align: right;
+}
+.channels-salit .data-salit-vedio p {
+    
+    margin-left: 0px;
+}
+.channels-salit .salit-elements {
+  
+    width: 19%;
+}
+.channels-salit .btn-channe{
+background-color: rgba(128, 128, 128, 0.114);
+color: black;
+margin-top:0px;
+
+}
+
+
+.channels-salit .btn-channe {
+  
+    margin-left: 18px;
+    height: 37px;
+}
+/*aj+ channels end part*/
+/*start downloaded vedios part*/
+.topp{
+    background-color: rgba(0, 0, 0, 0.67);
+    width: 45%;
+    height: 124.8px;
+    
+    position: relative;
+    top:0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+   
+   
+  
+}
+ .top-par{
+    position: absolute;
+    top:0px;
+    left:0px;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center; 
+
+}
+.list .backgroung-vedios{
+padding-right: 10px;
+}
+.top-par i{
+   
+    color: white;
+    font-size: 15px;
+   
+    
+
+}
+.topp img{
+    position: relative;
+    top:0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -1;}
+   .vedios-salitt .data-salit-vedio p{
+        margin-top: -10px;
+
+    }
+   .vedios-salitt .data-salit-vedio .number {
+        
+        width: 197px;
+    }
+ .vedios-salitt   .data-salit-vedio .seeList{
+    padding-right: 23px;
+    }
+
+/*end downloaded vedios part */
+/*start muntada part*/
+.muntada{
+    width: 852px;
+    height:751px;
+   
+    margin-left: 190px;
+    border: 1px rgba(103, 99, 99, 0.463) solid!important;
+    margin-top: 30px;
+   
+}
+
+.muntada h2 img {
+width:40px;
+height: 40px;
+margin-left: 10px;
+}
+.muntada h2  {
+    font-size: 15px;
+    text-align: right;
+    
+    padding-right: 60px;
+    padding-top: 8px;
+    }
+    .muntada h2  p{
+        font-size: 12px;
+        color:gray;
+        text-align: right;
+        padding-right: 5px;
+        }
+        .muntada h2 i {
+
+          padding-right: 580px;
+        }
+
+        .muntada .headr p{
+            text-align: right;
+          
+            padding-right: 115px;
+            margin-top: -20px;
+
+        }
+        .muntada .imgg{
+            width:640px;
+            height:640px ;
+           margin-left: 100px;
+           margin-top: -10px;
+           padding-bottom: 0px;
+           margin-bottom: 0px;
+        }
+        .muntada .imgg img{
+            width:99%;
+            height: 99%;
+        }
+
+        .comments0{
+            text-align: right;
+            padding-right: 117px;
+            padding-top: 0px;
+            color: rgba(0, 0, 0, 0.737);
+        }
+        .comments0 div{
+            
+            padding-left: 15px;
+            
+        }
+       
+/*end muntada part*/
+/*start info channel*/
+
+.infoo-channel-left {
+    text-align: right;
+ 
+}
+.btn4-channe {
+    border: 1px rgba(128, 128, 128, 0.204) solid;
+    padding: 3px 7px;
+    margin-right: 20px;
+}
+.infoo-channel-left .col-md-4 p,.infoo-channel-left .col-md-4 i{
+padding-right: 25px;
+
+}
+.infoo-channel-left .col-md-4 .word{
+
+    padding-right: 0px;
+}
+.infoo-channel-left .col-md-7 h3{
+
+    font-size: 16px;
+    padding-bottom: 15px;
+
+}
+hr{
+    width:100%;
+}
+.goOUT{
+    text-decoration: none;
+    text-transform: none;
+    color:black;
+    
+}
+.subsc2{
+    display: none;
+}
+
+/*end info channel*/
+/*Done less than 575px*/
+/*Android smartphones - Smasung Galaxy S20  360x800 */
+@media (max-width: 575px)  {
+ 
+  /*start page profile section*/
+  .cover-profile {
+    height: 8vh;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.143);
+}
+.btn-channe{
+    display: none;
+}
+.image-profiile img {
+    width: 56px;
+    margin-top: -232px;
+    margin-right: 14px;
+}
+.subsc2{
+    text-decoration: none;
+    text-transform: none;
+    color: rgb(204, 3, 3)!important;
+    padding-right: 30px;
+}
+.image-profiile h2, .image-profiile p {
+    font-size: 13px;
+}
+.image-profiile h1 {
+    font-size: 18px;
+    padding-right: 30px;
+}
+.image-profiile {
+    width: 50%;
+    text-align: right;
+    margin-left: 176px;
+    margin-top: 13px;
+}
+
+.nav-tabs .nav-link {
+    border: 0px solid transparent;
+    border-radius: 0%;
+    background-color: rgba(128, 128, 128, 0);
+    font-size: 17px;
+    margin-left: 6px;
+}
+.nav-tabs {
+    
+    margin-left: 30px;
+   
+}
+.data-vedio h3,.data-vedio p ,.dSource{
+    display: none!important;
+}
+.data-vedio {
+    text-align: right;
+    padding-top: 233px;
+    display: contents;
+    width: 100%;
+}
+.backgroung-vedios iframe {
+    width: 331px;
+    height: 209px;
+}
+.backgroung-vedios {
+    width: 96%;
+    background-color: rgba(128, 128, 128, 0.08);
+    height: 1660px;
+    padding-left: 1px;
+    padding-top: 30px;
+}
+
+.backgroung-vedios .data-vedio h2 {
+    font-size: 16px;
+    word-spacing: -1px;
+    font-weight: 400;
+    color: black;
+    width: 305px;
+    margin-left: -124px;
+}
+.hed a{
+    display: none!important;
+}
+.salit-elements {
+    float: none;
+    width: 100%;
+}
+.vedios-salit {
+    overflow: hidden;
+    padding-top: 23px;
+    padding-right: 0px;
+}
+.img-salit-vedio {
+    width: 48%;
+    height: 103.8px;
+    float: right;
+}
+.data-salit-vedio .number {
+    margin-left: 8px;
+    width: 127px;
+}
+.backgroung-vedios,.profile-page,nav {
+   
+    background-color: white;
+   
+}
+.tab-content {
+   background-color: white;
+}
+.salit .hed {
+    text-align: right;
+    padding-right: 11px;
+}
+.data-salit-vedio h4 {
+    font-size: 15px;
+    width: 162px;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.679);
+}
+.data-salit-vedio h3 {
+    padding-top: 10px;
+    font-size: 15px;
+    width: 167px;
+    text-align: right;
+}
+.salit-elements {
+    float: none;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.nav-ver .nav-ver-part1 {
+    margin-left: auto;
+    width: 100%;
+    background-color: white;
+    height: 2432px;
+}
+/*end page profile section*/
+/*start channel section*/
+.channels-salit .salit-elements {
+    width: 91%;
+}
+.channels-salit .salit-elements .img-salit-vedio {
+    width: 88px;
+    height: 88px;
+}
+.salit1 .channels-salit .data-salit-vedio {
+    text-align: left;
+    padding-left: 74px;
+}
+.salit1 .hed {
+    text-align: right;
+    padding-right: 20px;
+}
+/*end chanel section*/
+
+.fforSmall{
+    display: block!important;
+}
+.forLarge{
+    display: none!important;
+}
+
+.tick , #nav-else3-tab,#nav-channels3-tab,#nav-place-tab{
+display: none!important;
+}
+
+.topp {
+    background-color: rgba(0, 0, 0, 0.67);
+    width: 21%;
+    height: 124.8px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+.vedios-salitt .data-salit-vedio .seeList {
+    padding-right: 171px;
+}
+.vedios-salitt .data-salit-vedio .number {
+    width: 139px;
+}
+.vedios-salitt .data-salit-vedio h3 {
+    font-size: 16px;
+    text-align: right;
+    padding-top: 10px;
+}
+.hed .vedios-salitt{
+    padding-left: 40px;
+}
+.topp img {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 0;
+    width: 182px;
+    height: 125px;
+    margin-left: -69px;
+}
+/*start downloaded vedios part*/
+.topp{
+    background-color: rgba(0, 0, 0, 0.435);
+    width: 45%;
+    height: 124.8px;
+    
+    position: relative;
+    top:0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+   
+   
+  
+}
+ .top-par{
+    position: absolute;
+    top:0px;
+    left:0px;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center; 
+
+}
+.list .backgroung-vedios{
+padding-right: 10px;
+}
+.top-par i{
+   
+    color: white;
+    font-size: 15px;
+   
+    
+
+}
+
+   .vedios-salitt .data-salit-vedio p{
+        margin-top: -10px;
+
+    }
+   .vedios-salitt .data-salit-vedio .number {
+        
+        width: 197px;
+    }
+ .vedios-salitt   .data-salit-vedio .seeList{
+    padding-right: 23px;
+    }
+
+/*end downloaded vedios part */
+/*new start down section*/
+.olite .vedios-salitt{
+padding-left: 40px;
+}
+
+/*end down section*/
+/*start list section*/
+.veVa .img-salit-vedio {
+    width: 69%;
+    height: 87.8px;
+    float: right;
+    background-color: #000000a3;
+    z-index: 1;
+}
+.salit-elements {
+    float: none;
+    width: 100%;
+    padding-bottom: 20px;
+    height: 115px;
+}
+.top-par {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+    z-index: 0;
+    padding-left: 24px;
+}
+.veVa .salit .hed h2 {
+    text-align: right;
+    padding-right: 11px;
+    padding-bottom: 20px;
+}
+.topp img {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -1;
+    width: 153px;
+    height: 88px;
+    margin-left: 1px;
+}
+.topp {
+    background-color: white;
+    width: 22%;
+    height: 0.8px;
+    position: relative;
+    top: 0px;
+    float: right;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: 1!important;
+    margin-right: 92px;
+}
+.data-salit-vedio{
+    width: 100%;
+}
+.olite .vedios-salitt {
+    padding-left: 0px;
+}
+.vedios-salitt .data-salit-vedio .seeList {
+    padding-right: 0px;
+}
+.vedios-salitt .data-salit-vedio .number {
+    width: 152px;
+}
+.veVa .data-salit-vedio h3 {
+    
+    width: 177px;
+  
+}
+.vedios-salitt .data-salit-vedio h3 {
+
+    padding-top: 10px;
+}
+.data-salit-vedio {
+    width: 52%;
+    float: initial;
+}
+.salit .hed {
+    text-align: right;
+    padding-right: 11px;
+    padding-bottom: 0px;
+}
+
+.olite  .salit-elements {
+    float: none;
+    width: 100%;
+    height: 109px;
+    padding-bottom: 20px;
+}
+.salit1 .channels-salit .data-salit-vedio {
+    text-align: left;
+    padding-left: 68px;
+}
+.channels-salit .data-salit-vedio .number {
+    margin-left: 0px;
+    width: 61px;
+    text-align: right;
+}
+.data-salit-vedio .number {
+    margin-left: 8px;
+    width: 137px;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 11%;
+
+    padding-left: 1px;
+    margin-top: -35px;
+  
+    margin-left: 50px;
+}
+.shortt .dropdown-toggle {
+    margin-bottom: 170px;
+    
+    width: 40px;
+}
+.dropdown, .dropdown-center, .dropend, .dropstart, .dropup, .dropup-center {
+    position: relative;
+    margin-top: -28px;
+    margin-bottom: -9px;
+    
+    width: 40px;
+}
+
+.offcanvas-body .nav-link p {
+    display: inline-block;
+    text-align: right;
+    color: black;
+    width: 138px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  
+    margin-bottom: 31px;
+    margin-left: auto;
+    margin-top: -13px;
+}
+a .navbar-toggler-icon {
+    margin-right: 25px;
+    margin-top: -59px;
+    height: 46px;
+}
+.offcanvas-body .nav-link {
+    height: 45px;
+    width: 147px;
+    margin-right: 52px;
+    margin-top: -3px;
+    padding-right: 0px;
+}
+.nav-link {
+    display: inline-block;
+}
+.offcanvas-body .nav-link i {
+    color: black;
+    display: inline-block;
+    text-align: right;
+    margin-right: -48px;
+    padding-left: 5px;
+}
+.navbar {
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+    position: sticky;
+    top: 0px;
+    height: 54px;
+}
+/*end list section*/
+}
